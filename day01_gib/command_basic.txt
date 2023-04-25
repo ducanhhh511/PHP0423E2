@@ -1,0 +1,11 @@
+Một số command line cơ bản:
++ Mở công cụ gõ command line: cmd, cmder
+D: -> chuyển sang ổ D
+cd \ di chuyển về ổ gốc - change director
+-> Bổ sung kỹ năng đọc hiểu Tiếng Anh 
+Cài extendstion cho Chrome: Laban, Google Translate
+mkdir tạo thư mục
+echo " hello " > tên flie   --> Tạo file
+ls-l --> liệt kê file thư mục theo từng hàng
+cat file.txt --> đọc nội dung flie
+cd .. --> lên 1 cấp thư mục
